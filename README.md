@@ -13,4 +13,4 @@ Open file [UploadFileRobot.php] / going to line 1..
 
 [کانال نرم افزار](http://telegram.me/Cyber_Sat)
 
-[منبع](https://telegram.me/mosidevbot)
+[کانال](http://telegram.me/Wariors_Team)
